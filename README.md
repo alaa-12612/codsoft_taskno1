@@ -6,7 +6,7 @@ Each task is organized in its own folder and built using *HTML* and *CSS*.
 ---
 
 ## Table of Contents
-- [Task 2 - Portfolio]
+- [Task 1 - Portfolio]
 
 ---
 
@@ -21,7 +21,7 @@ A personal portfolio project showcasing my front-end development skills with res
 
 
 *Live Demo:*  
-(https://alaa-12612.github.io/codsoft_taskno/first%20task/index.html)
+(https://alaa-12612.github.io/codsoft_taskno1/).
 
 ---
 
